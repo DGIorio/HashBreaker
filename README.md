@@ -2,7 +2,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/DGIorio)
 
 HashBreaker is a GPU-accelerated (CUDA) tool designed to brute-force custom/non-standard CRC32 hashes. It generates candidate strings with optional constrains (prefix, suffix, and contains), reads multiple target hashes from a file, and finds all matches within configured variable string length. Key parameters are managed via a configuration file.  
-The custom CRC32 hashing function implementation is based on [RwCRC32](https://burnout.wiki/wiki/MediaWiki:RwCRC32.js) by [burninrubber0](https://github.com/burninrubber0), hash used on Need for Speed Most Wanted 2012.
+The custom CRC32 hashing function implementation is based on [RwCRC32](https://burnout.wiki/wiki/MediaWiki:RwCRC32.js) by [burninrubber0](https://github.com/burninrubber0), hashing method used on Need for Speed Most Wanted 2012.
 
 ## Requirements
 * **NVIDIA GPU:** Compute Capability 3.0 or higher (tested on a RTX 4060).
