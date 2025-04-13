@@ -1,0 +1,10 @@
+# Hashes list
+0xA864BA41
+0x54FD2CA2
+0x0581CF03
+0x61626364
+0x7BF0FF0E
+0x8AF798AB
+0x00E9DD14
+
+#a, ab, abc, abcd, abcde, abcdef, abcdefg
